@@ -1,4 +1,4 @@
 # ai-forex-trading-system
 
 
-Hello
+Hello World นะ
